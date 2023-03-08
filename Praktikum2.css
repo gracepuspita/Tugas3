@@ -1,0 +1,60 @@
+body { 
+    background-image: url(Background\ Web.jpg);
+    font-size: 90%;
+    border-style: double;
+    border-color: black;
+}
+
+.margin1 {
+    width: 75%;
+    margin: auto;
+    font-family: 'sans-serif';
+}
+
+.header {
+    text-align:center;
+    font-size:200%; 
+    background-color: tan;
+}
+
+.border1 {
+    border-style: groove;
+    border-color: brown;
+}
+
+#table tr:nth-child(even){background-color: whitesmoke;}
+
+#table tr:nth-child(odd){background-color: lightgray;}
+
+#table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: cadetblue;
+    color: white;
+  }
+
+.p2 {
+    border-style: groove;
+    border-color: brown;
+    padding : 10px;
+    text-align: center;
+}
+
+#link {color: darkblue; text-align: center;}
+
+.footer {
+    background-color: gray;
+    margin: auto;
+    width: 75%;
+    font-size: 100%;
+    color:black;
+    text-align: center;
+    padding: 2px;
+    border: double;
+}
+
+p {
+    font-size: 130%;
+}
+
